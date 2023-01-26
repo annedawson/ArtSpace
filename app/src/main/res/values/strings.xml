@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_1_title">Gin</string>
+    <string name="image_2_title">Window flower box</string>
+    <string name="image_3_title">Girl with Pigtails</string>
+    <string name="image_4_title">Gypsy Woman with Baby</string>
+    <string name="image_5_title">Native Wood Carving</string>
+    <string name="image_6_title">Trifle</string>
+    <string name="image_1_artist">Anne Dawson (2022)</string>
+    <string name="image_2_artist">Unknown (2010)</string>
+    <string name="image_3_artist">Amedeo Modigliani (1918)</string>
+    <string name="image_4_artist">Amedeo Modigliani (1919)</string>
+    <string name="image_5_artist">Unknown (1997)</string>
+    <string name="image_6_artist">Anne Dawson (2023)</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+</resources>
